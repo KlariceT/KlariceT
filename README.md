@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a year 3 student in SMU studying information system
+I am currently a year 3 student in SMU pursuing a Bachelor's degree in Information System with a focus on dual tracks: Business Analytics && Digital Cloud Solutioning
+
+I have experience in both backend and frontend code for website developments, 
 
 Here is a list of coding languages, database and softwares I know how to use, had applied in my school projects before:
 - Java (Spring boot, OOP)
