@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a year 3 student in SMU studying information system /n
+I am currently a year 3 student in SMU studying information system
+
 Here is a list of coding languages, database and softwares I know how to use, had applied in my school projects before:
 - Java (Spring boot, OOP)
 - Python
