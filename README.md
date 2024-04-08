@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a year 3 student in SMU pursuing a Bachelor's degree in Information System with a focus on dual tracks: Business Analytics && Digital Cloud Solutioning
+I'm Klarice, currently a year 3 student in SMU pursuing a Bachelor's degree in Information System with a focus on dual tracks: Business Analytics && Digital Cloud Solutioning
 
-I have experience in both backend and frontend code for website developments; for project management, I have experience in using Github for code versioning, and using Jira to do project plannings and tracking.
+I have experience in both backend and frontend code for website developments; for team projects, I have experience in using Github for code versioning, and using Jira to do project management, plannings and tracking.
+
+FYI, some of my projects are sponsored by industry partners of SMU-X, and I have experiences in delivering solutions to solve real business problems. Some sponsors that I had worked with includes SGH (Singapore general hospital) and Certis.
 
 Here is a list of coding languages, database and softwares I know how to use, and had applied in my school projects before:
 - Java (Spring boot, OOP)
